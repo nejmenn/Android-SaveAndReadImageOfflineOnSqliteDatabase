@@ -11,6 +11,5 @@ Note:
 2 - loading many images into a listview can generate OutOfMemoryException.
 
 
-Image Preview
 
-![alt text](http://imgur.com/a/eiPkX)
+![Alt text](http://i.imgur.com/mW1vFnx.png "Image Preview")
