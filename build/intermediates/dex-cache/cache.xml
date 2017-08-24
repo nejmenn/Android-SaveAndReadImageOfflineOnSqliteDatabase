@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jaimenejaim/Downloads/SaveAndReadImageOfflineOnSqliteDatabase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/jaimenejaim/Downloads/SaveAndReadImageOfflineOnSqliteDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_215ae06865cecc9d1e8623c582736256c66d4dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaimenejaim/Downloads/SaveAndReadImageOfflineOnSqliteDatabase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5b0c83ba1e6388dbecb6e22b35de871203ed0ea">
+        <dex dex="/Users/jaimenejaim/Downloads/SaveAndReadImageOfflineOnSqliteDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dfb05ebfb66d71e5738ae395304eba59d5af009c/classes.dex" />
+    </item>
+
+</items>

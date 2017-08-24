@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SaveAndReadImageOfflineOnSqliteDatabase</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="output_photo_format">.JPEG</string>
+    <string name="output_video_format">.MP4</string>
+
+</resources>
